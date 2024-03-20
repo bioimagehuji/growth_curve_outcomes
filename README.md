@@ -11,8 +11,9 @@ Developed by Yonatan Eavri.
 1. Preparing the file of spectrophotometer OD600 data for analysis
 Insert the data into an excel sheet accordingly:
 
-•	Columns are the groups and the repeats - add as many groups and repeats as required
-•	Rows are time (according to the output of your spectrophotometer).
+ *	Columns are the groups and the repeats - add as many groups and repeats as required
+
+ *	Rows are time (according to the output of your spectrophotometer).
 
  Save as DATA.csv 
  
