@@ -17,6 +17,8 @@ Insert the data into an excel sheet accordingly:
 
  Save as DATA.csv 
  
+ Here is an example DATA file with 4 groups (A-D) with triplicate results and time by hour (20 minute intervals or 3 points per hour)
+ -- Table -- 
  Note 1: the format of the DATA file must be csv
  
  Note 2: the group triplicates need to have the same name.
