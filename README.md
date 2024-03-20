@@ -19,7 +19,10 @@ Insert the data into an excel sheet accordingly:
  
  Here is an example DATA file with 4 groups (A-D) with triplicate results and time by hour (20 minute intervals or 3 points per hour)
  
- -- Table -- 
+
+ <h1 align="center">
+<img src="https://github.com/bioimagehuji/growth_curve_outcomes/blob/main/table.png" width="300">
+</h1><br>
  
  Note 1: the format of the DATA file must be csv
  
