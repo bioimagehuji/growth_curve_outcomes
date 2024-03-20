@@ -1,6 +1,8 @@
 # growth_curve_outcomes
 Growth curve outcomes
 
+By: Eavri Gavish
+
 Please cite:
  - TODO
 
