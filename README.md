@@ -4,7 +4,7 @@ Growth curve outcomes
 By: Eavri Gavish
 
 Please cite:
- - TODO
+ - Rimon, A.; Belin, J.; Yerushalmy, O.; Eavri, Y.; Shapochnikov, A.; Coppenhagen-Glazer, S.; Hazan, R.; Gavish, L. Pulsed Blue Light and Phage Therapy: A Novel Synergistic Bactericide. Antibiotics 2025, 14, 481. https://doi.org/10.3390/antibiotics14050481.
 
 
 Tool for Growth Curve Analysis - Instructions for Use
